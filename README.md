@@ -1,2 +1,2 @@
-# IG-Feed-Bootstrap
+# Instagram-Bootstrap-Feed
  
