@@ -1,3 +1,53 @@
-#angle {
-    width: 1000px;
+html,
+body {
+    overflow-x: hidden;
+}
+
+.accordion-header a {
+    text-decoration: none;
+}
+
+#header, #header-2 {
+    height: 4em;
+}
+
+#boton {
+    background-color: #CAE894;
+    border: 1px solid #CAE894;
+}
+
+#boton2 {
+    background-color: #FB9A4B;
+    border: 1px solid #FB9A4B;
+}
+
+#header {
+    background-color: #A594F9;
+}
+
+#ig, #setting {
+    width: 2.5rem;
+}
+
+#camera, #tag {
+    width: 1.5rem;
+}
+
+#settings {
+    width: 40px;
+    height: auto;
+}
+
+#settings-menu {
+    list-style: none;
+}
+
+.content {
+    position: relative;
+}
+
+#collapseExample {
+    position: absolute;
+    z-index: 1;
+    background-color: rgba(255, 255, 255, 0.96);
 }
